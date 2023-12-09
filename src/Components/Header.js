@@ -6,7 +6,7 @@ export const Header = () => {
   return (
     <div className='header'>
 <div className='notice'>
-  <p>IMPORTANT NOTICE: We are currently closed for the year, to resume back in January 15, 2024</p>
+  <p>IMPORTANT NOTICE: We are currently closed for the year, to resume back in 8th, January 2024</p>
 </div>
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
